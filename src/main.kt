@@ -1,1 +1,4 @@
-fun main() = println("heyyy")
+fun main() 
+  = sayHey()
+
+fun sayHey() = println("heyyy")
